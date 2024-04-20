@@ -1,0 +1,3 @@
+[submodule "Vam"]
+	path = Vam
+	url = https://github.com/ThanhTi93/Vam.git
